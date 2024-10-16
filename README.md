@@ -31,7 +31,7 @@ To get started with this project:
 
 4. **Start the server:**
    ```bash
-   npm start
+   node server
    ```
    By default, the application will run on port `3000`. If port `3000` is already in use, it will use the environment variable `PORT`.
 
